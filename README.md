@@ -11,7 +11,7 @@ This repository demonstrates a GitHub Actions workflow with matrix builds and ar
 
 ## Contact
 
-**Email**: your.email@example.com
+**Email**: 22f2001388@ds.study.iitm.ac.in
 
 ## Artifacts
 
